@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name":"com.toshiba.mdl",
+      "sha256_cert_fingerprints": [
+        "8F:00:F8:A7:CB:82:EC:DD:E0:F5:E5:7A:12:82:A0:09:59:98:89:F2:A5:47:18:59:A3:FF:5E:5E:4D:6B:1B:2C"
+      ]
+    }
+  }
+]
